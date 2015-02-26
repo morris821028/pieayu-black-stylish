@@ -17,7 +17,9 @@ My favorite
 * [Wiki - Dark Wikipedia Rounded](http://userstyles.org/styles/47161/dark-wikipedia-rounded)
 * [Facebook - dark-facebook 2](http://userstyles.org/styles/95359/facebook-dark-facebook-2)
 * [GitHub - Dark](http://userstyles.org/styles/37035/github-dark)
-* [GitHub - Dark](http://userstyles.org/styles/37035/github-dark)
+
 * [Stackoverflow - Dark](http://userstyles.org/styles/35345/stackoverflow-dark)
 
 * [MidSu *Global Dark](http://userstyles.org/styles/25704/midsu-global-dark)
+
+* [GT DeepDark for Google Legacy](https://userstyles.org/styles/102870/gt-deepdark-for-google-legacy)
