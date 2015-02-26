@@ -297,6 +297,5 @@ MENU *,
   }
   .scbar_icon_td {
      width: 50px;
-     background: url('../../static/image/common/search.png') no-repeat scroll 0px -74px transparent;
   }
 }

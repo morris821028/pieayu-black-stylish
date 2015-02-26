@@ -23,3 +23,13 @@ My favorite
 * [MidSu *Global Dark](http://userstyles.org/styles/25704/midsu-global-dark)
 
 * [GT DeepDark for Google Legacy](https://userstyles.org/styles/102870/gt-deepdark-for-google-legacy)
+
+My design
+=====
+
+* [komica-black-theme](https://userstyles.org/styles/110882/komica-black-theme)
+
+* [newtab-chiyo-gekkan](https://userstyles.org/styles/110884/newtab-chiyo-gekkan)
+
+* [pieayu-black-stylish](https://userstyles.org/styles/110885/pieayu-black-stylish)
+
