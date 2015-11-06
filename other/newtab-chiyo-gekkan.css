@@ -1,12 +1,14 @@
 @-moz-document url("about:newtab") {
 
-#newtab-scrollbox:not([page-disabled]), 
-#newtab-scrollbox { 
+body {
     background-color: #303030;
     background-image: url(http://i.imgur.com/1PhjeCw.png);
     background-repeat: no-repeat;
     background-size: 50%;
     background-position: left bottom;
+}
+#newtab-scrollbox:not([page-disabled]), 
+#newtab-scrollbox { 
     overflow-y: hidden !important; 
     min-height: 100% !important; 
     min-width: 1024px !important; 
